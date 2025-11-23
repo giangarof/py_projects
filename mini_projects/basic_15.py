@@ -1,4 +1,11 @@
 # BlackJack game
+
+# Hints
+# you may need dictionaries
+# you may need to calculate the card values
+#remember that the user needs to see their card and have the option to draw a card
+
+
 import random
 
 cards = {
