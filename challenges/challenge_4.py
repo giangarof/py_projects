@@ -7,6 +7,6 @@ def countOccurrences(character, string):
         if character == s:
             occurrences += 1
     
-    print(occurrences)
+    return occurrences
 
 countOccurrences("l", "hello world")
