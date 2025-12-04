@@ -6,6 +6,6 @@ def findMaxNumber(num):
     for n in num:
         if n > largest:
             largest = n
-    print(largest)
+    return largest
 
 findMaxNumber(nums)

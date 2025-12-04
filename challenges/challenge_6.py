@@ -10,8 +10,10 @@ def titleCase(w):
     word = " ".join(l) # join the strings 
     return word
 
+    # another solution more easy
 
-        
+    # update = w[0].upper() + w[1:]
+    # return update
 
 
 print(titleCase("heLlo worLd"))
