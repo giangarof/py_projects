@@ -14,3 +14,5 @@ Conducting doctest from /challenges and /miniprojects
 
 ### /unittest
 Conducting unittest from /challenges and /miniprojects
+#### To run in root: 
+python -m unittest tests.unittest.test_challenge_1 -v

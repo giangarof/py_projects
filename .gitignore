@@ -1,3 +1,1 @@
-./__pycache__
-./tests/unittest/__pycache__
-./challenges/__pycache__
+__pycache__/
