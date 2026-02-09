@@ -1,5 +1,5 @@
 import unittest
-from challenges.challenge_4 import countOccurrences
+from py_projects.challenges.challenge_04 import countOccurrences
 
 
 class Test(unittest.TestCase):

@@ -1,5 +1,5 @@
 import unittest
-from challenges.challenge_2 import getSum
+from py_projects.challenges.challenge_02 import getSum
 
 
 class Test(unittest.TestCase):

@@ -1,5 +1,5 @@
 import unittest
-from challenges.challenge_3 import calculator
+from py_projects.challenges.challenge_03 import calculator
 
 
 class Test(unittest.TestCase):

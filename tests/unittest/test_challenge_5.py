@@ -1,5 +1,5 @@
 import unittest
-from challenges.challenge_5 import findMaxNumber
+from py_projects.challenges.challenge_05 import findMaxNumber
 
 class Test(unittest.TestCase):
     def test_findMaxNumber_correct(self):
